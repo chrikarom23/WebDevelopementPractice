@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(181, 38, 27, 0.756);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(187, 254, 133);
+    padding: 150px;
+    border-style: outset;
+    border: 5px solid;
+    border-color: black;
+    box-shadow: 20px 20px black;
+  }
+
+.box{
+    padding: 10px;
+}
+
+.button{
+    padding: 20px; 
+    margin: 10px;
+    font-size: 20px;
+}
+
+.timer{
+    font-size:70px;
+    margin: 25px;
+    padding: 20px;
+    border-style: outset;
+    border: 5px dotted darkblue;
+    border-color: black;
+}
