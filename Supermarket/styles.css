@@ -1,0 +1,124 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color:thistle;
+}
+
+#logo{
+    width: 9%; 
+    height: 9%;
+}
+
+#banner{
+    width: 50vw; 
+    height: 50vh; 
+    margin:auto
+}
+
+div{
+    width: 70vw;
+    background-color: salmon;
+    border-radius: 10px;padding: auto;
+}
+
+.disclaimer{
+    background-color: thistle;
+}
+
+h1{
+    margin: 0px
+}
+
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hori{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:thistle;
+}
+
+.anotherOne{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.mid{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    border-radius: 15px;
+    border: 1px solid black;
+    margin:2px;
+}
+
+li{
+display: inline;
+}
+
+
+a{
+    padding:10px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border: 1pt solid rebeccapurple;
+    text-decoration: none;
+    
+}
+
+#test li{
+    display:list-item;
+    list-style-type:lower-greek;
+}
+
+#test{
+    padding-left: 10%;
+}
+
+#woman{
+    width:35%;
+    height:35%;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin:5px
+}
