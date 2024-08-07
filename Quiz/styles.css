@@ -1,0 +1,39 @@
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aquamarine;
+    margin: 1px;
+    padding: 20px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+/* .container{
+    justify-content: center;
+    background-color:thistle;
+} */
+
+.options{
+    align-items:normal;
+    display: flex;
+    justify-content:space-around;
+}
+
+button{
+    width: 20%;
+}
+
+.card{
+    align-items: left;
+    display: flex;
+    justify-content:left;
+    flex-direction: column;
+    background-color:thistle;
+    padding:20px 70px 20px 70px;
+    margin-bottom: 10px;
+    padding: 30px;
+}
